@@ -51,7 +51,7 @@ export default function MarksScheme() {
 
     // Make POST request to the /fetch_result endpoint
     axios
-      .post("http://localhost:5000/fetch_result", {
+      .post("https://guarded-walk.railway.app/fetch_result", {
         query: query,
         userId: user?.data?.user?.id, // Replace with the actual user ID
         document: fileName, // Replace with the actual document ID or uploaded file

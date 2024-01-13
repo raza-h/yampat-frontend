@@ -112,7 +112,7 @@ export default function Upload() {
       formData.append("file", selectedFile, selectedFile.name);
 
       axios
-        .post("http://localhost:5000/upload", formData, {
+        .post("https://guarded-walk.railway.app/upload", formData, {
           headers: {
             "Content-Type": "multipart/form-data",
           },
