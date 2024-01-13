@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.2",
     "docxtemplater": "^3.40.3",
+    "gh-pages": "^6.1.1",
     "mammoth": "^1.6.0",
     "path-browserify": "^1.0.1",
     "pizzip": "^3.1.4",
