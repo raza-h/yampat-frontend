@@ -1,7 +1,6 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "https://raza-h.github.io/yampat-frontend",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.6",
@@ -11,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.2",
     "docxtemplater": "^3.40.3",
-    "gh-pages": "^6.1.1",
     "mammoth": "^1.6.0",
     "path-browserify": "^1.0.1",
     "pizzip": "^3.1.4",
@@ -26,8 +24,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
