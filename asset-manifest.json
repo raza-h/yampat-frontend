@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yampat-frontend/static/css/main.92818639.css",
+    "main.js": "/yampat-frontend/static/js/main.0006d69a.js",
+    "static/js/787.38f16daf.chunk.js": "/yampat-frontend/static/js/787.38f16daf.chunk.js",
+    "static/media/logo.png": "/yampat-frontend/static/media/logo.9cae72b516a143874021.png",
+    "static/media/logo.svg": "/yampat-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yampat-frontend/index.html",
+    "main.92818639.css.map": "/yampat-frontend/static/css/main.92818639.css.map",
+    "main.0006d69a.js.map": "/yampat-frontend/static/js/main.0006d69a.js.map",
+    "787.38f16daf.chunk.js.map": "/yampat-frontend/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92818639.css",
+    "static/js/main.0006d69a.js"
+  ]
+}
